@@ -1,56 +1,71 @@
-# zeppy-ai
-Zeppy AI Flash is a sleek and responsive web-based chat application. Built with vanilla HTML, CSS, and JavaScript, it features a clean user interface and provides a seamless chat experience.
+# 🤖 Zeppy AI | 2.0 Flash
 
-✨ Features
-Responsive Design: Optimized for a great user experience on both desktop and mobile devices.
+An interactive **AI-powered chatbot interface** built with **HTML, CSS, and JavaScript**, styled for modern UI, and powered by **Google’s Generative Language API (Gemini 2.0 Flash)**.  
+It supports **file uploads, theme toggle, chat history, typing animation**, and much more.  
 
-Dark/Light Mode: Easily toggle between dark and light themes.
+---
 
-Typing Simulation: Bot responses are displayed with a realistic typing effect.
+## ✨ Features
 
-Real-time Chat: Connects to the Gemini 2.0 Flash API to generate responses.
+- 💬 **AI Chatbot** with real-time responses  
+- ⏳ **Typing animation** for bot replies  
+- 📎 **File upload support** (images, PDFs, TXT, CSV)  
+- 🎨 **Dark / Light theme toggle** with local storage memory  
+- 🗑️ **Delete chats** functionality  
+- 📜 **Chat suggestions** to kickstart conversations  
+- 📱 **Responsive design** (works on desktop & mobile)  
+- ⚡ Powered by **Gemini 2.0 Flash API**  
 
-File Attachments: Users can attach images and other files to their prompts.
+---
 
-Prompt Suggestions: Includes pre-defined suggestions to kickstart conversations.
+## 📂 Project Structure
 
-🛠️ Technologies Used
-HTML5: For the basic structure and content of the web page.
+**📁 Zeppy-AI-2.0-Flash**
+- │── index.html # Main HTML file
+- │── style.css # Styles (dark/light themes, responsive UI)
+- │── script.js # Bot logic + API calls + UI interactions
 
-CSS3: For styling, including a responsive layout and theme switching.
+---
 
-JavaScript (ES6+): For handling the chat logic, API calls, and user interactions.
+## 🚀 Getting Started
 
-Google Fonts: Used for the Material Symbols Rounded icons.
+### 1️⃣ Clone this repository
+```bash
+git clone https://github.com/zeppygt/zeppy-ai.git
+```
 
-Gemini 2.0 Flash API: The backend model for generating AI responses.
+## 2️⃣ Open in Browser
 
-🚀 Getting Started
-To get this project up and running locally, follow these simple steps.
+**Simply open `index.html` in your browser to run the app.**
 
-Prerequisites
-You will need a Gemini 2.0 Flash API key to generate AI responses.
+## 🔑 API Setup
 
-Installation
-Clone the repository:
-
-git clone <your-repository-url>
-
-Navigate to the project directory:
-
-cd <your-project-directory>
-
-Update the API Key:
-Open script.js and replace the placeholder API key with your actual key.
-
-// In script.js
+- This project uses Google Generative Language API.
+- Replace the placeholder API key in `script.js` with your own:
+```bash
 const API_KEY = "YOUR_API_KEY_HERE";
+```
 
-Open the Application:
-Simply open the index.html file in your preferred web browser.
+---
 
-📜 License
-This project is open-sourced under the MIT License.
+- 🖼️ Preview
+- 💻 Desktop UI
+- 📱 Mobile UI
+- ⚡ Tech Stack
+- 🌐 Frontend: HTML, CSS, JavaScript
+- 🎨 UI/UX: Poppins font + Material Symbols
+- 🤖 AI Engine: Google Gemini 2.0 Flash API
+- 🛠️ Customization
+- 🎭 Change UI colors inside style.css
+- 📝 Modify chat suggestions in index.html
+- 🔧 Adjust typing speed in script.js (typingEffect function)
 
-🧑‍💻 Author
-Shah Faisal (@zeppy.dev)
+## 📜 Disclaimer
+
+**⚠️ Zeppy AI is an experimental chatbot.
+Responses may be incorrect or incomplete. Always double-check important information.**
+
+## 👨‍💻 Author
+
+**Made with ❤️ by @zeppy.dev**
+
