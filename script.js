@@ -7,8 +7,8 @@ const fileUploadWrapper = promptForm.querySelector(".file-upload-wrapper");
 const themeToggleBtn = document.querySelector("#theme-toggle-btn");
 
 // API Setup
-const API_KEY = "AIzaSyDSHYEOQESIUrFxMPPvwwEIHIUAIEI3jTM";
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
+const API_KEY = "AIzaSyBjDm2te6tKwFGgsocmeAZCV0CoYjMgHm4";
+const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`;
 
 let controller, typingInterval;
 const chatHistory = [];
