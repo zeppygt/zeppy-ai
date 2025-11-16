@@ -1,4 +1,4 @@
-# 🤖 Zeppy AI | 2.0 Flash
+# 🤖 Zeppy AI | 2.5 Flash
 
 An interactive **AI-powered chatbot interface** built with **HTML, CSS, and JavaScript**, styled for modern UI, and powered by **Google’s Generative Language API (Gemini 2.0 Flash)**.  
 It supports **file uploads, theme toggle, chat history, typing animation**, and much more.  
@@ -67,5 +67,5 @@ Responses may be incorrect or incomplete. Always double-check important informat
 
 ## 👨‍💻 Author
 
-**Made with ❤️ by @zeppy.dev**
+**Made with ❤️ by @faisalgitt**
 
