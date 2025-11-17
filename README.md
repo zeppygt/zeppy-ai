@@ -60,6 +60,11 @@ const API_KEY = "YOUR_API_KEY_HERE";
 - 📝 Modify chat suggestions in index.html
 - 🔧 Adjust typing speed in script.js (typingEffect function)
 
+## 🛠 Updates
+- 2.5 Flash
+- 2.0 Flash
+- 1.5 Flash
+
 ## 📜 Disclaimer
 
 **⚠️ Zeppy AI is an experimental chatbot.
