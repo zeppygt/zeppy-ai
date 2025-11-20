@@ -54,7 +54,7 @@ const API_KEY = "YOUR_API_KEY_HERE";
 - ⚡ Tech Stack
 - 🌐 Frontend: HTML, CSS, JavaScript
 - 🎨 UI/UX: Poppins font + Material Symbols
-- 🤖 AI Engine: Google Gemini 2.0 Flash API
+- 🤖 AI Engine: Google Gemini 2.5 Flash API
 - 🛠️ Customization
 - 🎭 Change UI colors inside style.css
 - 📝 Modify chat suggestions in index.html
