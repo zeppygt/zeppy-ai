@@ -61,6 +61,7 @@ const API_KEY = "YOUR_API_KEY_HERE";
 - 🔧 Adjust typing speed in script.js (typingEffect function)
 
 ## 🛠 Updates
+- 3.0 Flash Soon!
 - 2.5 Flash
 - 2.0 Flash
 - 1.5 Flash
